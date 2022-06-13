@@ -60,12 +60,3 @@ Programming questions -
 1) Implement cache mechanism using C++ code
 2) Implement producer-consumer with concurrency using multithreading
 3) Implement thread pooling
-
-
-
-
-
-
-
-
-
