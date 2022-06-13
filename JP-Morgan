@@ -53,7 +53,8 @@ Can we dynamic_cast be used with reference ? What will happen if it fails ?
 What is constexpr ?
 How to prevent calling a function more than ones in code flow ?
 What is the use of Select API in socket programing ?
-
+What is use of double reference ?
+What is CPU pinning ? How to make code run on a specific CPU core ?
 
 Programming questions -
 1) Implement cache mechanism using C++ code
@@ -67,4 +68,4 @@ Programming questions -
 
 
 
-Double reference &&
+
