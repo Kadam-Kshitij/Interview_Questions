@@ -8,3 +8,13 @@ Base& b = d; Will sclicing happen ?
 In Vector reallocation same or new memory is used ?
 Can we throw exception in constructor, destructor ?
 Can static members, functions be accessed via object ?
+
+Programming question -
+For the data given in the following format ( roll-number, subject, marks ) in a text file, find the number of students who have marks greater than 100 
+
+22, Data Structures, 45
+23, English, 52
+22, English, 51
+26, Data Structures, 72
+23, Data Structures, 61
+26, English, 81
