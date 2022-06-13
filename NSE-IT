@@ -1,0 +1,20 @@
+Name IPC mechanism in Linux ?
+Which 2 are most used IPC ?
+Name different types of pipes ?
+On linux desktop example of most used shared memory ?
+
+sed command flag to modify the file itself ?
+grep command flag to recursivlely search ?
+
+Which functions are available in dynamic memory allocation ?
+What is difference between array and structure ?
+In pointer arithmatic's what is not allowed ?
+How to perform substraction without using +/- operators ?
+
+Name functions used in posix pthreads ?
+
+Difference between UDP and TCP ?
+Which one to use for HTTP request UDP or TCP ?
+What are the different functions used in socket programming ?
+
+Critical area vs Mutex, which to use in case of high performance software ?
