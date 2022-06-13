@@ -1,0 +1,11 @@
+1) What is multiple inheritance ?
+2) What is polymorphism ?
+3) Function overloading - Criteria for performing function overloading ?
+4) Does order of parameters matter in function overloading ?
+5) Overload the << operator ?
+6) What is copy constructor ?
+7) Write copy constructor for class with int and string ?
+8) Same as above if char* instread of string ?
+9) What is use of weak pointer ?
+10) What are semaphores ?
+11) foo( int x, int y, int z ) and foo( int x, int y = 2, int z = 3 ). Can this be overloaded ?
