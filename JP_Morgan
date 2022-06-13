@@ -1,0 +1,70 @@
+B -> C. How to prevent C from inheriting B ?
+
+What is size of a class with virtual function ?
+Does vptr contribute to size ?
+
+B b1;
+std::sting A = b1["Hello"];
+How to make this work ?
+
+How to create a class which can be created only via new ?
+Why Diamond problem ? What is the solution ?
+What will happen if we perform delete this is destructor of a class ?
+
+A* obj[10];
+obj[i] = new A;
+
+How to assign and delete array of pointers ?
+
+What will happen in the followinf cases ?
+int a = 5;
+int& b = a;
+b = 6;
+int d = 10;
+b = d;
+
+Where are function pointers used ?
+How are funtion objects created ?
+In case of static member varibale as a class object is Class::a outside required ?
+Copy assignment vs Copy constructor ? what is the syntax ?
+Assigning shared base to shared pointer of D ?
+
+What are static and dynamic libraries ?
+How to find from exe file which library are linked to it ?
+How to use gdb on a running process which failed on the production device?
+Have you used valgrind ?
+How to catch unknown exception ?
+Name some exceptions ?
+How to throw and catch exception ? by value by ref ?
+Can destructor throw exception ?
+exceptions when to use ?
+Vector of pointers or objects ? Which to use ?
+How to use gdb for multi threaded codes ?
+joinable is main included ?
+Difference between thread barrier and semaphores ?
+
+
+What is forward ?
+Can we call virtual function from constructor. What will happen
+Can destructor be virtual ?
+Whats is enable_if ?
+Ways to improve performance/reduce execution time of code ?
+Can we dynamic_cast be used with reference ? What will happen if it fails ?
+What is constexpr ?
+How to prevent calling a function more than ones in code flow ?
+What is the use of Select API in socket programing ?
+
+
+Programming questions -
+1) Implement cache mechanism using C++ code
+2) Implement producer-consumer with concurrency using multithreading
+3) Implement thread pooling
+
+
+
+
+
+
+
+
+Double reference &&
