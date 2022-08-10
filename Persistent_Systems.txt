@@ -53,3 +53,6 @@
     delete base;
     return 0;
  }
+
+
+13) Difference between delete and truncate
